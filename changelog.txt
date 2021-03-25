@@ -1,9 +1,9 @@
-[24/03] NEW METHOD MENU
+  [24/03] NEW METHOD MENU
 ------------------------------------------------
-[21/03] -> FIX INTERFACE
+  [21/03] -> FIX INTERFACE
 ------------------------------------------------
-[18/03] -> FIX BUG MENU TAB
-[18/03] -> FIX DISCORD BUTTONS
-[18/03] -> NEW INTERFACE
+  [18/03] -> FIX BUG MENU TAB
+  [18/03] -> FIX DISCORD BUTTONS
+  [18/03] -> NEW INTERFACE
 
 
