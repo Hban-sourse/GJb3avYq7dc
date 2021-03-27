@@ -1,3 +1,7 @@
+  [26/03] NEW BUTTON TO OPEN CSGO ADD
+  [26/03] NEW TABS IN MENU (CHANGE LOG/HOME/MISC)
+  [26/03] NEW METHOD THE UPDATE CHANGE LOG
+················································ 
   [25/03] MOVE LOADER ON CLICK
 ················································
   [24/03] NEW METHOD MENU
