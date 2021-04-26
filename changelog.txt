@@ -1,3 +1,5 @@
+  [26/04] TRY FIX VACBAN DLL DETECT (NEW DLL)
+--------------------------------------------
   [22/04] REMOVE BUTTON "CONFIG"
   [22/04] NEW COLOR TO MENU
   [22/04] REALSE BUTTON "DISCORD"
